@@ -13,35 +13,32 @@ sidebar:
 
     # Sidebar links
     email: saskarun@gmail.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    phone: +91 9677884489
+    #website: blog.webjeda.com #do not add http://
+    @linkedin: alandoe
+    @github: sharu725
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    @twitter: '@webjeda'
+    @stack-overflow: # Number/Username, e.g. 123456/alandoe
+    @codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Tamil
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Bike riding
         link:
 
-      - item: Snowboarding
+      - item: Table Tennis
         link:
 
-      - item: Cooking
+      - item: DIY with Electronic products
         link:
 
 career-profile:
@@ -54,9 +51,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.E. Electrical & Electronics Engineering (Sandwich)
+      university: PSG College of Technology
+      time: 2010-2015
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,21 +74,28 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
+    - role: Senior Applications Engineer- Technical Sales & Business Development
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: Titan Engineering & Automation Limited (TEAL), Hosur, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+      Responsibilities:
+        - Understand Customer's requirements associated with Industrial Automation, Robotics and logistics
+applications.
+        - Prepare and propose multiple technical concepts/solutions that are best suited for the given requirement.
+        - Organize multiple rounds of discussions with Customers/internal team to finalize the best
+concepts/solutions.
+        - Prepare commercial proposal for the proposed technical solution with execution strategies.
+        - Prepare and support negotiation strategies for senior management.
+        - Transfer the complete knowledge of the project to the internal team after receiving order and support them
+throughout the execution until successful execution of project.
+        - Learn and implement current market trends and Innovative cutting edge Technologies in day to day activities
+associated with work.
+Exposures:
+        - Handled 75+ Customers of various domains (~70% Automotive, ~10% medical, ~5% FMCG & ~5% Electrical)
+        - Handled 200+ projects associated with 130+ unique products of which 80% is Domestic type and 20% is
+Export type.
+        - A total of $70 million (INR 500 Cr.) + worth with $4 million (INR 30 Cr.) Max value of a single project and
+average of $0.4 million (INR 3 Cr.) + per project.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
